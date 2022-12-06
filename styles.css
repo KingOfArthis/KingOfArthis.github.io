@@ -9,6 +9,9 @@ ul  {
     padding: 0;
     overflow: hidden;
     background-color: burlywood;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 li  {
