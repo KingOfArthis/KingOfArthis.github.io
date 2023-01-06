@@ -1,6 +1,7 @@
 body    {
     background-color: black;
     padding-left: 0%;
+    padding: 0%;
 }
 
 h1  {
@@ -38,6 +39,7 @@ li a:hover  {
     background-color: royalblue;
 }
 
+/*For when the mouse is hoving over the navigation bar*/
 .active {
     background-color: blue;
 }
