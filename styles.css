@@ -51,10 +51,12 @@ li a:hover  {
 .PL {
     font-weight: bold;
     color: whitesmoke;
+    padding-bottom: 0%;
 }
 
 /*Project Descriptions*/
 .PD    {
     color: grey;
     font-size: small;
+    padding-top: 0%;
 }
