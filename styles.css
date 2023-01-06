@@ -40,3 +40,21 @@ li a:hover  {
 .active {
     background-color: blue;
 }
+
+/*Current Projects*/
+.CP {
+    font-weight: bolder;
+    color: white;
+}
+
+/*Project List*/
+.PL {
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+/*Project Descriptions*/
+.PD    {
+    color: grey;
+    font-size: small;
+}
