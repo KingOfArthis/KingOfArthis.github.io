@@ -6,18 +6,19 @@ var frames = 0;
 function timeKeeping()  {
     for (var i = 0; i >= 0; i++)   {
 
-        //counts up number of frames
+        //Counts up number of frames
         frames = frames + 1;
 
-        //display the number of frames that have gone by in console
+        //Displays the number of frames that have gone by in console
         console.log(String(frames));
     }
 }
 
+//Sends an alert to the user to let them know that they should sign in
 function loginAlert()   {
     if (login = false && frames >= 1000)   {
         
-        //alerts user aproximately 10 seconds in
+        //Alerts user aproximately 10 seconds in
         alert("Please login to continue");
     }
 }
