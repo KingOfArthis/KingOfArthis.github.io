@@ -23,5 +23,5 @@ function loginAlert()   {
     }
 }
 
-timeKeeping();
-loginAlert();
+//timeKeeping();
+//loginAlert();
