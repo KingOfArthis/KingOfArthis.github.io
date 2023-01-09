@@ -59,8 +59,13 @@ li a:hover  {
 }
 
 /*Project Descriptions*/
-.PD    {
+.PD {
     color: grey;
     font-size: small;
     line-height: 0%;
+}
+
+/*Next Steps*/
+.NS {
+    color: white;
 }
