@@ -4,6 +4,10 @@ body    {
     margin: 0;
 }
 
+br  {
+    margin: 0em;
+}
+
 h1  {
     font-family: 'Courier New', Courier, monospace;
 }
