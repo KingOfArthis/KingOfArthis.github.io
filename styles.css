@@ -40,41 +40,41 @@ li a    {
 }
 
 li a:hover  {
-    background-color: royalblue;
+    background-color: yellow;
 }
 
 /*For when the mouse is hoving over the navigation bar*/
 .active {
-    background-color: blue;
+    background-color: yellowgreen;
 }
 
 /*Current Projects*/
 .CP {
     font-weight: bolder;
-    color: white;
+    color: black;
 }
 
 /*Project List*/
 .PL {
     font-weight: bold;
-    color: whitesmoke;
+    color: black;
     padding-bottom: 0%;
     line-height: 0%;
 }
 
 /*Project Descriptions*/
 .PD {
-    color: darkgrey;
+    color: black;
     font-size: small;
     line-height: 0%;
 }
 
 /*Next Steps*/
 .NS {
-    color: white;
+    color: black;
 }
 
 /*List Item*/
 .LI {
-    color: white;
+    color: black;
 }
